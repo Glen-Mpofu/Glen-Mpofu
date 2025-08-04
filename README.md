@@ -33,10 +33,8 @@ Check out my repositories for desktop, mobile, and web apps—especially those d
 ---
 
 ## 📫 Let's Connect
-
-- [GitHub](https://github.com/Glen-Mpofu)
-- [Linkdin](https://www.linkedin.com/in/tshepo-mpofu-6b37a3237/)
-
+- [LinkedIn](https://www.linkedin.com/in/tshepo-mpofu-6b37a3237/)
+- [Instagram](https://www.instagram.com/i.am.mgt/)
 ---
 
-Thanks for visiting my profile!
+Thanks/Danko for visiting my profile!
