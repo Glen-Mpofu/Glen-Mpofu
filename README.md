@@ -6,9 +6,9 @@ I'm a 3rd year Computer Science student at TUT(Tshwane University of Technology)
 
 ## 💻 Tech Stack
 
-- **Languages:** Java, Kotlin, SQL, Node.js
-- **Frontend:** React.js, JavaFX
-- **Databases:** MySQL, SQL/PLSql
+- **Languages:** Java, Kotlin, SQL
+- **Frontend:** React.js, JavaFX, HTML
+- **Databases:** SQL/PLSql
 - **Platforms:** Desktop*, Mobile, Web
 
 ---
