@@ -22,7 +22,7 @@ As a musician, I find unique ways to blend my love for music with software devel
 ## 🖥️ What I Love
 
 - Music and Coding
-- Currently working on my own pluggin for FL Studio :). Peep That!!!!
+- Currently working on my bands Desktop App/Game and Website and other work related projects that will be posted here if not above 1.5GB in size :)
 
 ---
 
