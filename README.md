@@ -1,4 +1,4 @@
-# 👋 Hi there, I am Tshepo Glen Mpofu!
+# 👋 Tshepo Glen Mpofu here!
 
 I'm a 3rd year Computer Science student at TUT(Tshwane University of Technology) with a passion for building creative and impactful software solutions. I love developing desktop, mobile, and web applications and I enjoy mixing my musicianship with my programming skills.
 
