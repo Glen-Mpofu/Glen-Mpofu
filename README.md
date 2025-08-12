@@ -28,7 +28,7 @@ As a musician, I find unique ways to blend my love for music with software devel
 
 ## 🚀 Projects
 
-Check out my repositories for desktop, mobile, and web apps—especially those designed for musicians and bands!
+Check out my repositories for desktop, mobile, and web apps.
 
 ---
 
