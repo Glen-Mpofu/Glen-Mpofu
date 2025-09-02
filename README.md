@@ -1,6 +1,6 @@
-# Tshepo Glen Mpofu here!
+<h1 align = "center">Tshepo Glen Mpofu here! </h1>
 
-I'm a 3rd year Computer Science student at TUT(Tshwane University of Technology) with a passion for building creative and impactful software. I love developing desktop, mobile, and web applications and I enjoy mixing my musicianship with my programming skills. 
+<p align = "center"> I'm a 3rd year Computer Science student at TUT(Tshwane University of Technology) with a passion for building creative and impactful software. I love developing desktop, mobile, and web applications and I enjoy mixing my musicianship with my programming skills. </p>
 
 ---
 
