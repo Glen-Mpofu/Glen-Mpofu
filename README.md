@@ -1,41 +1,82 @@
-<h1 align = "center">Tshepo Glen Mpofu here! </h1>
-
-<p align = "center"> I'm a 3rd year Computer Science student at TUT(Tshwane University of Technology) with a passion for building creative and impactful software. I love developing desktop, mobile, and web applications and I enjoy mixing my musicianship with my programming skills. </p>
-
----
-
-## Tech Stack
-
-- **Backend:** Java, Kotlin, JavaScript
-- **Frontend:** React Native, JavaFX, HTML,
-- **Databases:** SQL/PLSql, MongoDB
-- **Platforms:** Desktop*, Mobile, Web
-
----
-
-## Music & Code
-
-As a musician, I find unique ways to blend my love for music with software development. Currently, I'm working on a desktop app and Website for my band, combining my technical and creative skills to build tools for musicians and my band duhhhhhhhhhhhhhh.
-
----
-
-## What I Love
-
-- Music - Playing guitar, rapping, singing, you name it!! :)
-- Coding
-
----
-
-## Projects
-
-Check out my repositories for desktop, mobile, and web apps.
-
----
-
-## Let's Connect
-- [MyPortfolio] (https://portfolio-app-glen.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/tshepo-mpofu-6b37a3237/)
-- [Instagram](https://www.instagram.com/i.am.mgt/)
----
-
-Thanks/Danko for visiting my profile!
+<span align="center">
+  <h1 align="center">♪ Tshepo Glen Mpofu here! ♫</h1>
+  
+  <p align="center">
+    <em>
+      3rd Year Computer Science student @ TUT ♩ | Developer ♯ | Musician ♬ <br/>
+      Blending <b>code</b> & <b>music</b> into creative, impactful projects ♪
+    </em>
+  </p>
+  
+  ---
+  
+  ## ♭ Tech Stack  
+  
+  **Languages**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  ♬ **Frontend**  
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
+  ♩ **Databases**  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  ♯ **Platforms**  
+  Desktop ♪ | Mobile ♬ | Web ♩  
+  
+  ---
+  
+  ## ♭ Music & Code  
+  
+  As a *musician* & *developer*, I build software that’s as expressive as a song.  
+  Currently working on:  
+  A **desktop music app** for my band  
+  A **website** blending creativity & code  
+  Interactive projects mixing **music + programming**  
+  
+  ---
+  
+  ## ♯ What I Love  
+  
+  ♪ Playing Guitar  
+  ♩ Rapping & Singing  
+  ♫ Producing & Listening to Music  
+  ♬ Coding impactful apps  
+  
+  ---
+  
+  ## ♫ Featured Projects  
+  
+  ♪ **A Picture of Heaven** – JavaFX music & guessing game  
+  ♬ **RideWise** – Compare ride & delivery prices  
+  ♯ **AutoPrintR** – Silent file watcher & auto printer  
+  
+  *(Check out my repos for more cool stuff!)*  
+  
+  ---
+  
+  ## ♩ Let’s Connect  
+  
+  [Portfolio](https://portfolio-app-glen.vercel.app/)  
+  [LinkedIn](https://www.linkedin.com/in/tshepo-mpofu-6b37a3237/)  
+  [Instagram](https://www.instagram.com/i.am.mgt/)  
+  
+  ---
+  
+  <p align="center">
+    ♬ Currently Vibing To ♬  
+  </p>
+  
+  <p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing"/>
+  </p>
+  
+  ---
+  
+  <p align="center">♭ Thanks/Danko for visiting my profile! Keep coding, keep vibing ♯</p>
+</span>
