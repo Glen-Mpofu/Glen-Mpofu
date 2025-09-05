@@ -6,7 +6,7 @@
 
 ## Tech Stack
 
-- **Backend:** Java, Kotlin, 
+- **Backend:** Java, Kotlin, JavaScript
 - **Frontend:** React Native, JavaFX, HTML,
 - **Databases:** SQL/PLSql, MongoDB
 - **Platforms:** Desktop*, Mobile, Web
