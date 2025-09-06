@@ -69,9 +69,9 @@
   ---
   
   <p align="center">
-    ♬ Currently Vibing To ♬  
+    ♬ Currently Vibing To ♬     
   </p>
-  
+  <p> https://music.youtube.com/playlist?list=OLAK5uy_kVYFQYyuJ9A1NoTTvQxnUNIYVGdSJvl20&si=EqhMRa3-YZ-cOQk5</p>
   <p align="center">
     [♬ RateYourMusic](https://rateyourmusic.com/~glenmpofu)
   </p>
