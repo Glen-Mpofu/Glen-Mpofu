@@ -78,5 +78,5 @@
   
   ---
   
-  <p align="center">♭ Thanks/Danko for visiting my profile! Keep coding, keep vibing ♯</p>
+  <p align="center">♭ Thanks/Danko for visiting my profile! ♯</p>
 </span>
