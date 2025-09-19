@@ -20,6 +20,7 @@
   ♬ **Frontend**  
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaSWING](https://img.shields.io/badge/JavaSWING-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   
   ♩ **Databases**  
