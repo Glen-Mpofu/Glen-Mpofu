@@ -3,8 +3,8 @@
   
   <p align="center">
     <em>
-      3rd Year Computer Science student @ TUT ♩ | Developer ♯ | Musician ♬ <br/>
-      Blending <b>code</b> & <b>music</b> into creative, impactful projects ♪
+     Computer Science Cum Laude Graduate from TUT ♩ | Developer ♯ | Musician ♬ <br/>
+      Blending <b>code</b> & <b>music</b> ♪
     </em>
   </p>
   
@@ -55,7 +55,7 @@
   
   ## ♫ Featured Projects  
   
-  ♪ **A Picture of Heaven** – JavaFX music & guessing game  
+  ♪ **E-Lections** – React Native Online Voting Site for A previous residence's committee
   ♬ **RideWise** – Compare ride & delivery prices  
   ♯ **AutoPrintR** – Silent file watcher & auto printer  
   
