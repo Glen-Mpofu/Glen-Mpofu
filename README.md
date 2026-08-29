@@ -38,25 +38,23 @@
   
   As a *musician* & *developer*, I build software that’s as expressive as a song.  
   Currently working on:  
-  A **desktop music app** for my band  
-  A **website** blending creativity & code  
-  Interactive projects mixing **music + programming**  
+  A **interactive website** for my band  
+  A **pixel** game
+  An artist book platform for booking musicians for shows, events etc.
   
   ---
   
   ## ♯ What I Love  
   
-  ♪ Playing Guitar  
-  ♩ Rapping & Singing  
-  ♫ Producing & Listening to Music  
-  ♬ Coding impactful apps  
+  ♪ Coding random stuff
+  ♩ Coding apps that can make changes to life as it is. For me atleast : )
   
   ---
   
   ## ♫ Featured Projects  
   
   ♪ **E-Lections** – React Native Online Voting Site for A previous residence's committee
-  ♬ **RideWise** – Compare ride & delivery prices  
+  ♬ **FoodXP** – A food recommendation platform that uses AI and the user's available food to recommend recipes or for donations to other uses on the platform
   ♯ **AutoPrintR** – Silent file watcher & auto printer  
   
   *(Check out my repos for more cool stuff!)*  
@@ -64,22 +62,17 @@
   ---
   
   ## ♩ Let’s Connect  
-  
-  [Portfolio](https://portfolio-app-glen.vercel.app/)  
   [LinkedIn](https://www.linkedin.com/in/tshepo-mpofu-6b37a3237/)  
   [Instagram](https://www.instagram.com/i.am.mgt/)  
-  
+  [♬ RateYourMusic](https://rateyourmusic.com/~glenmpofu)
   ---
   
   <p align="center">
     ♬ Currently Vibing To ♬     
   </p>
   <p> https://music.youtube.com/playlist?list=OLAK5uy_kVYFQYyuJ9A1NoTTvQxnUNIYVGdSJvl20&si=EqhMRa3-YZ-cOQk5</p>
-  <p align="center">
-    [♬ RateYourMusic](https://rateyourmusic.com/~glenmpofu)
-  </p>
   
   ---
   
-  <p align="center">♭ Thanks/Danko for visiting my profile! ♯</p>
+  <p align="center">♭ Danko for visiting my profile! ♯</p>
 </span>
