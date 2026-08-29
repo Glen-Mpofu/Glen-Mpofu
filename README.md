@@ -57,10 +57,10 @@
   - React Native Online Voting Site for A previous residence's committee
   - (https://github.com/Glen-Mpofu/E-Lections.git) <br> <br>
   ♬ **FoodXP** <br>
-  – A food recommendation platform that uses AI and the user's available food to recommend recipes or for donations to other uses on the platform
+  - A food recommendation platform that uses AI and the user's available food to recommend recipes or for donations to other uses on the platform
   - (https://github.com/Glen-Mpofu/FoodXP.git) <br> <br>
   ♯ **AutoPrintR** <br>
-  – Silent file watcher & auto printer
+  - Silent file watcher & auto printer
   - (https://github.com/Glen-Mpofu/AutoPrintR.git)
   
   *(Check out my repos for more cool stuff!)*  
