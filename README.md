@@ -39,22 +39,24 @@
   As a *musician* & *developer*, I build software that’s as expressive as a song.  
   Currently working on:  
   A **interactive website** for my band  
-  A **pixel** game
+  A **pixel** game <br>
   An artist book platform for booking musicians for shows, events etc.
   
   ---
   
   ## ♯ What I Love  
   
-  ♪ Coding random stuff
+  ♪ Coding random stuff <br>
   ♩ Coding apps that can make changes to life as it is. For me atleast : )
   
   ---
   
   ## ♫ Featured Projects  
   
-  ♪ **E-Lections** – React Native Online Voting Site for A previous residence's committee
-  ♬ **FoodXP** – A food recommendation platform that uses AI and the user's available food to recommend recipes or for donations to other uses on the platform
+  ♪ **E-Lections**
+  - React Native Online Voting Site for A previous residence's committee
+  - (https://github.com/Glen-Mpofu/E-Lections.git) <br>
+  ♬ **FoodXP** – A food recommendation platform that uses AI and the user's available food to recommend recipes or for donations to other uses on the platform <br>
   ♯ **AutoPrintR** – Silent file watcher & auto printer  
   
   *(Check out my repos for more cool stuff!)*  
@@ -64,14 +66,7 @@
   ## ♩ Let’s Connect  
   [LinkedIn](https://www.linkedin.com/in/tshepo-mpofu-6b37a3237/)  
   [Instagram](https://www.instagram.com/i.am.mgt/)  
-  [♬ RateYourMusic](https://rateyourmusic.com/~glenmpofu)
-  ---
-  
-  <p align="center">
-    ♬ Currently Vibing To ♬     
-  </p>
-  <p> https://music.youtube.com/playlist?list=OLAK5uy_kVYFQYyuJ9A1NoTTvQxnUNIYVGdSJvl20&si=EqhMRa3-YZ-cOQk5</p>
-  
+  [♬ RateYourMusic](https://rateyourmusic.com/~glenmpofu
   ---
   
   <p align="center">♭ Danko for visiting my profile! ♯</p>
